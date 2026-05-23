@@ -6,11 +6,17 @@ Beadandó feladat: Repülőjegy Foglalási Rendszer
 A program a main.py fájl futtatásával indul el.
 
 Az indulás után egy menü jelenik meg:
+
 --- Repülőjegy Foglalás ---
+
 1 - Járatok listázása
+
 2 - Foglalások listázása
+
 3 - Jegy foglalása
+
 4 - Foglalás lemondása
+
 0 - Kilépés
 
 A menüpontok:
