@@ -19,7 +19,10 @@ Az indulás után egy menü jelenik meg:
 
 0 - Kilépés
 
+
+
 A menüpontok:
+
 1 - Járatok listázása -> Az alapból betöltött járatokat listázza ki. Itt a járat azonosító is látszódik ami a foglaláshoz szükséges.
 
 2 - Foglalások listázása -> A foglalásokat listázza ki. A foglalás azonosítója [] között jelenik meg, amelyet a törlésnél kell megadni.
